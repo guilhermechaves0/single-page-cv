@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: 'Arial', sans-serif;
+}
+
+header h1 {
+  font-size: 32px;
+  color: #2c3e50;
+  margin-bottom: 5px;
+}
+
+header h2 {
+  font-size: 18px;
+  font-style: italic;
+  color: #7f8c8d;
+  margin-bottom: 20px;
+}
+
+.contact-info p {
+  font-size: 16px;
+  color: #333;
+  display: inline-block;
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+.contact-info i {
+  margin-right: 5px;
+}
+
+.contact-info a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #2c3e50;
+}
+
+header h2 {
+  font-size: 24px;
+  color: #27ae60;
+}
+
+header p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+section h3 {
+  font-size: 22px;
+  color: #2c3e50;
+  border-bottom: 2px solid #27ae60;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+#perfil p {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#educacao p,
+#experiencia p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#experiencia h4 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #2c3e50;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+#habilidades p,
+#idiomas p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+  color: #7f8c8d;
+}
